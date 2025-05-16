@@ -1,4 +1,4 @@
-API I created that contributed to my team project
+API I created that contributed to my team project. It was built on NodeJS with Express.
 
 # API Routes
 

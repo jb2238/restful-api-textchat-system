@@ -3,9 +3,7 @@ API I created that contributed to my team project
 # API Routes
 
 ### Get
-#### User stuff
-- `"api/login"` -> returns necessary user data for session details upon correct login
-- `"api/login/[email]"` -> request for password hash via provided email address
+#### User
 - `"api/users"` -> return all user data
 - `"api/users/[id]"` (replace `[id]` with desired value) -> return specific users data
 #### Messaging

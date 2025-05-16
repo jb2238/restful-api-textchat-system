@@ -1,0 +1,31 @@
+{
+  "name": "cob290-part3-team02",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "api.js",
+  "scripts": {
+    "start": "nodemon api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lborocs/cob290-part3-team02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lborocs/cob290-part3-team02/issues"
+  },
+  "homepage": "https://github.com/lborocs/cob290-part3-team02#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "msql": "^1.0.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
